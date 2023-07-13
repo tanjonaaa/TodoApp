@@ -1,4 +1,4 @@
-package App;
+package App.Database;
 /*
 * A static class that will be used to execute all the queries that refers to the app
 *       -Create a Todo
