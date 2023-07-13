@@ -1,4 +1,4 @@
-package App;
+package App.Database;
 /*
 * A Class that represents a Todo with all its properties
 */
