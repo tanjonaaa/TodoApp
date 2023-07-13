@@ -19,10 +19,6 @@ public class TodoCRUD {
         return new ArrayList<Todo>();
     }
 
-    public static Todo getTodo(int id){
-
-    }
-
     public static int createTodo(/*TODO*/){
         return 0;
     }
